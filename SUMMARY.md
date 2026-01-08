@@ -2,15 +2,18 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## Getting started
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Introduction](getting-started/quickstart.md)
+* [Quickstart](getting-started/quickstart-1.md)
+* [Glossary](getting-started/glossary.md)
 
-## Basics
+## Modules
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [Portfolio Intelligence](modules/editor.md)
+* [Prediction Markets](modules/markdown.md)
+* [Staking & Rewards](modules/images-and-media.md)
+
+## Overview
+
+* [How it works](overview/how-it-works.md)
