@@ -17,3 +17,11 @@
 ## Overview
 
 * [How it works](overview/how-it-works.md)
+* [Prediction Market Mechanics](overview/prediction-market-mechanics.md)
+* [Tokenomics](overview/tokenomics.md)
+* [Revenue Model](overview/revenue-model.md)
+
+***
+
+* [FAQs](faqs.md)
+* [Legal & Disclaimers](legal-and-disclaimers.md)

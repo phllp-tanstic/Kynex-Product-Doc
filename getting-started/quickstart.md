@@ -20,13 +20,13 @@ metaLinks:
 
 # Introduction
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
-
 ### Kynex Protocol: The Liquidity Layer for On-Chain Intelligence
 
 <mark style="color:orange;">Kynex</mark> is a decentralized intelligence protocol that transforms static portfolio data into a liquid prediction economy. By bridging the gap between backward-looking analytics and forward-looking speculation, <mark style="color:orange;">Kynex</mark> creates a new asset class: Tokenized Insight.
 
 Unlike traditional prediction markets relying on subjective real-world events, <mark style="color:orange;">Kynex</mark> markets are settled deterministically via verifiable on-chain data. We do not just observe capital flows; we provide the infrastructure for users to stake on conviction, hedge against wallet performance, and monetize predictive accuracy.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-09 013447.png" alt=""><figcaption></figcaption></figure>
 
 #### 1. The Market Inefficiency
 
