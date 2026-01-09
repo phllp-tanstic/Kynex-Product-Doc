@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Welcome](README.md)
-
 ## Getting started
 
-* [Introduction](getting-started/quickstart.md)
+* [Introduction](README.md)
 * [Quickstart](getting-started/quickstart-1.md)
 * [Glossary](getting-started/glossary.md)
 
