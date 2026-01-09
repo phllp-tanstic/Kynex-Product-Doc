@@ -20,6 +20,7 @@
 * [Prediction Market Mechanics](overview/prediction-market-mechanics.md)
 * [Tokenomics](overview/tokenomics.md)
 * [Revenue Model](overview/revenue-model.md)
+* [Roadmap](overview/roadmap.md)
 
 ***
 
