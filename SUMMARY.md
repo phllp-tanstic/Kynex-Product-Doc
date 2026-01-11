@@ -3,14 +3,14 @@
 ## Getting started
 
 * [Introduction](README.md)
-* [Quickstart](getting-started/quickstart-1.md)
+* [Quickstart](getting-started/quickstart.md)
 * [Glossary](getting-started/glossary.md)
 
 ## Modules
 
-* [Portfolio Intelligence](modules/editor.md)
-* [Prediction Markets](modules/markdown.md)
-* [Staking & Rewards](modules/images-and-media.md)
+* [Portfolio Intelligence](modules/portfolio-intelligence.md)
+* [Prediction Markets](modules/prediction-markets.md)
+* [Staking & Rewards](modules/staking-and-rewards.md)
 
 ## Overview
 
